@@ -1,16 +1,17 @@
 /* Style for the background of the game board */
 div#memory_board{
-    background: #CCC;
+    background: gold;
     border:#999 1px solid;
     width: 800px;
-    height: 540px;
+    height: 400px;
     padding: 24px;
     margin: 0px auto;
 }
 
 /* Style for the individual card divs of the game */
 div#memory_board > div{
-    background: url(title_bg.jpg) no-repeat;
+    background color: darkgoldenrod;
+
     border: #000 1px solid;
     width: 71px;
     height: 71px;
